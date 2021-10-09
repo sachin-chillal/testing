@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Work",
+        "value": 11
+    },
+    {
+        "category": "Eat",
+        "value": 2
+    },
+    {
+        "category": "Commute",
+        "value": 10
+    },
+    {
+        "category": "Entertainment",
+        "value": 10
+    },
+    {
+        "category": "Sleep",
+        "value": 7
+    },
+    {
+        "category": "Other",
+        "value": 10
+    }
+]
